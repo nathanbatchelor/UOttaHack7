@@ -10,6 +10,7 @@ fastapi==0.115.6
 h11==0.14.0
 idna==3.10
 passlib==1.7.4
+psycopg2==2.9.10
 psycopg2-binary==2.9.10
 pyasn1==0.6.1
 pycparser==2.22
