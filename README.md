@@ -2,6 +2,6 @@
 UOttaHack7 Remo
 
 ## Members:
-Gal Riger
-Nathan Batchelor
-Daniel Ferrante
+* Gal Riger
+* Nathan Batchelor
+* Daniel Ferrante
